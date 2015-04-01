@@ -14,4 +14,5 @@
 //= require jquery_ujs
 //= require vendor/jquery.validate.min
 //= require bootstrap/bootstrap.min
+//= require vendor/sketch.min
 //= require theme
