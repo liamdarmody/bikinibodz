@@ -160,7 +160,7 @@
 			background-size: cover;
 			@include animationDelay(0.15s);
 			/*background-image: url("../../images/bg2.png");*/
-			background-image: url('https://farm4.staticflickr.com/3758/9011116378_32e56983e3_b.jpg');
+			background-image: url('/assets/fitness-image.jpg');
 
 			@media (max-width: 991px) {
 				padding-top: 65px;
