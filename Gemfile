@@ -24,7 +24,7 @@ gem 'kaminari', '0.16.3'
 gem 'friendly_id', '5.1.0'
 
 # Font-awesome: https://github.com/FortAwesome/font-awesome-sass
-# gem 'font-awesome-sass', '4.3.1'
+gem 'font-awesome-sass'
 
 # Bootstrap 3: https://github.com/twbs/bootstrap-sass
 # gem 'bootstrap-sass', '3.3.3'
